@@ -2,6 +2,7 @@
 
 A Library Management System is designed in SQL using concept of DBMS.And based on College Library.
 This System Keeps records of Branch, Employees, Students, Books, Book Issue_Status and Books Return_Status.
+
 This System has Six Tables are :- 
 - Branch Table for Branch's Records 
 - Employee Table for Employee's Records 
